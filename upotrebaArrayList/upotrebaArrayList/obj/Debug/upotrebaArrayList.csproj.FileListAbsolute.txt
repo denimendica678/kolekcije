@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\bin\Debug\upotrebaArrayList.exe.config
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\bin\Debug\upotrebaArrayList.exe
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\bin\Debug\upotrebaArrayList.pdb
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\obj\Debug\upotrebaArrayList.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\obj\Debug\upotrebaArrayList.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\obj\Debug\upotrebaArrayList.exe
+C:\Users\denim\source\repos\upotrebaArrayList\upotrebaArrayList\obj\Debug\upotrebaArrayList.pdb
