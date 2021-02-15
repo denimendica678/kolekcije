@@ -1,0 +1,6 @@
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\obj\Debug\upotrebaForeachPetlje.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\bin\Debug\upotrebaForeachPetlje.exe.config
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\bin\Debug\upotrebaForeachPetlje.exe
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\bin\Debug\upotrebaForeachPetlje.pdb
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\obj\Debug\upotrebaForeachPetlje.exe
+C:\Users\denim\source\repos\upotrebaForeachPetlje\upotrebaForeachPetlje\obj\Debug\upotrebaForeachPetlje.pdb
